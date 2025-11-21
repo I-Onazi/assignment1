@@ -1,4 +1,4 @@
-Name: [Your Name Here]
-Matric number: [Your Matric Number Here]
-Live URL of hosted application: [Link to Render/PythonAnywhere/etc]
-GitHub repository link: [Link to your GitHub Repo]
+Name: ONAZI ISAAC
+Matric number: 22CG031934
+Live URL of hosted application: https://assignment1-tawny-one.vercel.app/
+GitHub repository link: https://github.com/I-Onazi/assignment1
